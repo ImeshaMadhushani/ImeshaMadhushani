@@ -4,16 +4,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=imeshamadhushani&theme=onedark&margin-w=15" alt="GitHub Trophies" />
-  </a>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
 </p>
 
 ---
 
 <h3 align="center">👨‍💻 About Me</h3>
 <p align="center">
-  I am a passionate and dedicated Information Technology undergraduate from the University of Vavuniya.I love contributing to open-source projects, exploring new technologies, and building impactful solutions.
+  I am a passionate and dedicated Information Technology undergraduate from the University of Vavuniya. I love contributing to open-source projects, exploring new technologies, and building impactful solutions.
 </p>
 
 ---
@@ -27,8 +25,8 @@
 
 ---
 
-<h3 align="left">💻 Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">💻 Languages and Tools:</h3>
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
@@ -88,6 +86,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
@@ -100,6 +102,8 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imeshamadhushani" alt="GitHub Streak" />
 </p>
+
+
 
 ---
 
